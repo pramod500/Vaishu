@@ -1,0 +1,10 @@
+{
+  "name": "HeritageAR",
+  "description": "AR Based Cultural Heritage Preservation Platform: Preserve the Past, Experience the Heritage, Educate the Future with 3D monument models, AR overlays, audio guides, archives, and quizzes.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

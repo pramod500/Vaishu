@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- AR Scanner Corner Brackets (High Tech) -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,38 L32,32 L38,32" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M76,38 L76,32 L70,32" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M32,70 L32,76 L38,76" />
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M76,70 L76,76 L70,76" />
+
+    <!-- Heritage Gateway / Stupa / Temple / Monument Silhouette (Golden & Terracotta) -->
+    <!-- Base Platform -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M36,74 L72,74 L74,76 L34,76 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M37,71 L71,71 L72,74 L36,74 Z" />
+
+    <!-- Pillars -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M39,52 L44,52 L44,71 L39,71 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M64,52 L69,52 L69,71 L64,71 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M48,56 L51,56 L51,71 L48,71 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M57,56 L60,56 L60,71 L57,71 Z" />
+
+    <!-- Main Arch / Portal -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,52 L70,52 L70,48 L38,48 Z" />
+
+    <!-- Historic Monument Dome / Kalasha -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,48 C44,38 54,34 54,34 C54,34 64,38 64,48 Z" />
+
+    <!-- Kalasha finial tip -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M53,30 L55,30 L55,34 L53,34 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52,30 A2,2 0 1 0 56,30 A2,2 0 1 0 52,30 Z" />
+
+    <!-- Center Arch Opening (Negative Space) -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M51,71 L51,60 C51,58.5 52.5,57 54,57 C55.5,57 57,58.5 57,60 L57,71 Z" />
+
+    <!-- AR Pulse / Scan Target Point -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,43 A3,3 0 1 0 54,49 A3,3 0 1 0 54,43 Z" />
+</vector>
